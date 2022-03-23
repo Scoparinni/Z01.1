@@ -16,6 +16,7 @@ end entity;
 
 architecture arch of Or8Way is
 begin
+	q<=a or b;
 
 
 end architecture;
